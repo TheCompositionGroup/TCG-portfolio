@@ -1,16 +1,27 @@
-## Hi there 👋
+# The Composition Group LLC
 
-<!--
-**TheCompositionGroup/TheCompositionGroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developing unresolved concepts into informed decisions.**
 
-Here are some ideas to get you started:
+The Composition Group combines research, requirements, analysis, documentation, and illustration to develop early-stage projects into decision-ready Concept Development Packages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Typical work includes requirements with pass/fail criteria, risk analysis, cost and schedule basis, alternatives, validation planning, and explicit decision gates.
+
+**Illustration is part of the analysis, not decoration.**
+
+TCG does not manufacture, stamp drawings, or promise certainty.  
+A documented stop is a completed delivery.
+
+## Selected Work
+
+### Concept Development Package — Retail Operations
+
+A client-generalized Concept Development Package covering retail operations and scheduling, requirements, FMEA risk analysis, software and data structure, cost and schedule estimates, validation, acceptance criteria, and Gate A–E decision structure.
+
+[View the portfolio edition](https://github.com/TheCompositionGroup/TCG_CDP_WOS)
+
+---
+
+**Rob Knowles · Project Director**  
+Melbourne, Florida · SDVOSB · SAM Registered  
+rob@thecompositiongroup.com  
+[thecompositiongroup.com](https://thecompositiongroup.com)
