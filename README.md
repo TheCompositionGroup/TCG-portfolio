@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/TCG_logo.png" alt="The Composition Group logo" width="180">
+</p>
+
 # The Composition Group LLC
 
 **Developing unresolved concepts into informed decisions.**
